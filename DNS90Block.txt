@@ -112,3 +112,6 @@ nintendo.co.za
 nintendo.se
 nintendo.ch
 potato.nintendo.com
+beach.hac.lp1.eshop.nintendo.net
+api.accounts.nintendo.com
+app-a01.lp1.npns.srv.nintendo.net
